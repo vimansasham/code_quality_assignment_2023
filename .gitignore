@@ -1,0 +1,23 @@
+# .gitignore
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# maven #
+target/
+
+# idea #
+*.iml
+.idea/
+
+# eclipse #
+*.settings/
+*.metadata/
+*.project
+*.classpath/
+
+# The .vscode folder in any directory
+**/.vscode/**
