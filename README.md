@@ -28,7 +28,7 @@ Here is what the current project repository contains:
 
 ## Getting Started <a name="getting-started"></a>
 
-To run this project locally, follow the instructions below.
+To run this project on a GitHub code space, we have already given you instructions. If you wish to run this project locally, follow the instructions below.
 
 ### Prerequisites
 
@@ -52,32 +52,10 @@ If the inventory for any item in the shopping cart is insufficient, the program 
 
 ## Working on the Code <a name="working-on-the-code"></a>
 
-Follow these steps to work on this project:
+If you do the assignment on Github code space, follow the instructions we've given before, push your changes and create the PR. 
 
-1. Clone the repository:
-```bash
-git clone <repository_url>
-cd project_directory
-```
-2. Switch to a new branch. Replace `{student_id}` with your personal student ID. 
-```bash
-git checkout -b answers_{student_id}
-```
-3. Make your changes.
-4. Stage and commit those changes:
-```bash
-git add .
-git commit -m "commit message"
-```
-5. Push the changes to your branch:
-```bash
-git push -u origin answers_{student_id}
-```
-It's crucial that all changes are pushed to a branch named 'answers_{student_id}'.
+If you do the project locally, we would recommand you to compress the source folder, rename it with your index number and upload it to LMS. 
 
-## Submission <a name="submission"></a>
-
-Once you've committed and pushed all your changes, submit your branch's URL for evaluation.
 
 ## Evaluation <a name="evaluation"></a>
 
