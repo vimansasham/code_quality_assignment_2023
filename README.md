@@ -1,6 +1,3 @@
-Based on your request, here is the revised README:
-
----
 # Project Title: Travel Cost Calculator
 
 Welcome to the Travel Cost Calculator project. This project aims to calculate the total cost of travel considering flight costs, hotel rates and currency exchange rates. It is designed to help you understand code quality, programming standards, design principles, and language syntax in Python and Java.
@@ -78,5 +75,3 @@ The use of this project is purely for educational purposes.
 ## Disclaimer
 
 The use of this project is for educational purposes. The developer of this project and all associated parties are not responsible for any damages or liabilities direct or indirect, that result from the use of this software. All information in the software, including all data, diagrams, outputs, and reports, are not guaranteed to be accurate, timely, or complete, and are provided "as is" without warranty of any kind, express or implied, including warranties of performance, merchantability, and fitness for a particular purpose.
-
-----
